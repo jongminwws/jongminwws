@@ -1,6 +1,11 @@
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
  <div align="center">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=jongminwws)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?jongminwws=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?jongminwws=anuraghazra&repo=convoychat" />
+</a>
  </div>
 <!--
 **jongminwws/jongminwws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
