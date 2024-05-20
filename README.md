@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
  <div align="center">
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongminwws&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongminwws&layout=compact&theme=tokyonight)
  </div>
 <!--
 **jongminwws/jongminwws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
