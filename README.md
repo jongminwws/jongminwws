@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
  
 <!--
 **jongminwws/jongminwws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
